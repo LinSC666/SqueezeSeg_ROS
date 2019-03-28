@@ -1,4 +1,4 @@
-# SqueezeSeg_Ros
+# SqueezeSeg_ROS
 This is a ros package that implement the SqueezeSeg
 
 # Usage
